@@ -1,0 +1,7 @@
+{
+	"name": "SublimeBot",
+	"description": "Sublime Text plugin for executing custom automated tasks triggered by view events.",
+	"version": "0.1",
+	"url": "https://github.com/bkdavis/SublimeBot",
+	"author": "Branton Kyle Davis <bluecamel@gmail.com>"
+}

@@ -1,0 +1,16 @@
+{
+	"SublimeBot": {
+		"#writeLog": {
+			"watch": {
+				"#file_path": "/Users/bdavis/test.py",
+				"#file_name_base": "test",
+				"#file_name_full": "test.py",
+				"#file_name_extension": "py",
+				"#file_directory": "/Users/bdavis"
+			},
+			"action": {
+				"shell": "touch /tmp/SublimeBot"
+			}
+		}
+	}
+}
