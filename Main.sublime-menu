@@ -1,0 +1,35 @@
+[
+	{
+		"caption": "Preferences",
+		"mnemonic": "n",
+		"id": "preferences",
+		"children": [
+			{
+				"caption": "Package Settings",
+				"mnemonic": "P",
+				"id": "package-settings",
+				"children": [
+					{
+						"caption": "SublimeBot",
+						"children": [
+							{
+								"caption": "Preferences: SublimeBot - Default",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/SublimeBot/SublimeBot.sublime-settings"
+								}
+							},
+							{
+								"caption": "Preferences: SublimeBot - User",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/User/SublimeBot.sublime-settings"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]
