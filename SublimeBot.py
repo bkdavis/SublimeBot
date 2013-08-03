@@ -96,7 +96,6 @@ class SublimeBotAction:
 			shell.replace('%PROJECT_DIRECTORY%', self.view.project.directory)
 
 			shellParts = shell.split(' ')
-			print('shellParts', shellParts)
 			call(shellParts)
 
 
